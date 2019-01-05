@@ -1,17 +1,14 @@
-# ASP.NET Core 2.0 MVC Web ƒAƒvƒŠƒP[ƒVƒ‡ƒ“
+# ASP.NET Core 2.0 MVC Web ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³
 
-## ‹@”\ŠT—v
+## æ©Ÿèƒ½æ¦‚è¦
 
-`.NET Core Identity` ‚É‚æ‚éƒƒOƒCƒ“”FØ
-
-`FacebookAGoogleAMicrosoft` ‚É‚æ‚éŠO•”ƒT[ƒrƒX”FØ
-
-ZŠî•ñ‚Ì“o˜^EXVEíœ
-
-`zipaddress.net` API‚ð—˜—p‚µ‚½ZŠî•ñ‚ÌŽæ“¾
+`.NET Core Identity` ã«ã‚ˆã‚‹ãƒ­ã‚°ã‚¤ãƒ³èªè¨¼
+`Facebookã€Googleã€Microsoft` ã«ã‚ˆã‚‹å¤–éƒ¨ã‚µãƒ¼ãƒ“ã‚¹èªè¨¼
+ä½æ‰€æƒ…å ±ã®ç™»éŒ²ãƒ»æ›´æ–°ãƒ»å‰Šé™¤
+`zipaddress.net` APIã‚’åˆ©ç”¨ã—ãŸä½æ‰€æƒ…å ±ã®å–å¾—
 
 
-## ŠÂ‹«\’zŽè‡
-`mkdocs build` ‚ª¬Œ÷‚µ‚½‚çS3‚ÖƒfƒvƒƒC
+## ç’°å¢ƒæ§‹ç¯‰æ‰‹é †
+
 
 
